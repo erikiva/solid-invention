@@ -1,0 +1,19 @@
+{
+  "name": "test-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs-promise": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fs",
+    "node"
+  ],
+  "author": "Natalia Vidal",
+  "license": "ISC"
+}
